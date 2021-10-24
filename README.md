@@ -12,7 +12,7 @@
 我还建立了一个微信自学群，方便和我一起进步学习。我的微信号：php100，加上我好友后，可以发送“我要自学”，我24小时内就会邀请你入群。
 承诺：群内无收费、无广告、无买卖行为，只为学习使用。
 
-![入群方法](https://newimg.jspang.com/web_atlas_wechat.jpg)
+![技术胖公众号](https://newimg.jspang.com/gongzhonghao002.jpg)
 
 
 
